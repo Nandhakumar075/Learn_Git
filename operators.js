@@ -11,3 +11,8 @@ function subtraction(a, b){
 var c = a-b;
 console.log(c);
 }
+
+function division(a, b){
+  var c = a/b;
+console.log(c);
+}
