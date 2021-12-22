@@ -18,3 +18,4 @@ console.log(c);
 }
 
 addition();
+division();
